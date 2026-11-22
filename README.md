@@ -1,6 +1,6 @@
 ## Hi, I'm Yusif 👋
 
-**Data Analytics student at Baku Engineering University** · Baku, Azerbaijan
+**Data Analytics student at Baku Engineering University** · Baku, Azerbaijan  
 I turn raw data into business decisions using SQL, Python and Power BI.
 
 - 🔍 Looking for **data analyst internships and junior roles**
@@ -20,8 +20,8 @@ I turn raw data into business decisions using SQL, Python and Power BI.
 
 ### 🛠 Skills
 
-**Analysis:** SQL · Python (pandas, NumPy, Matplotlib, SciPy) · Statistics & A/B testing · Excel
-**BI:** Power BI · DAX · Data modeling (star schema)
+**Analysis:** SQL · Python (pandas, NumPy, Matplotlib, SciPy) · Statistics & A/B testing · Excel  
+**BI:** Power BI · DAX · Data modeling (star schema)  
 **Other:** C++ · Git · Jupyter · Web scraping
 
 ### 🗣 Languages
